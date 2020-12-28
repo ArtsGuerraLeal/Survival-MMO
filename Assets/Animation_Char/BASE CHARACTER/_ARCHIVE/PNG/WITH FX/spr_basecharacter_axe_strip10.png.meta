@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 51a113956967c1e4c925bcd5e21fa1b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5583078217654819397
+    second: spr_basecharacter_axe_strip10_0
+  - first:
+      213: -6357263658639762487
+    second: spr_basecharacter_axe_strip10_1
+  - first:
+      213: -423806216660321017
+    second: spr_basecharacter_axe_strip10_2
+  - first:
+      213: -3589947917703619186
+    second: spr_basecharacter_axe_strip10_3
+  - first:
+      213: 4677115201077632694
+    second: spr_basecharacter_axe_strip10_4
+  - first:
+      213: 3486192110371885321
+    second: spr_basecharacter_axe_strip10_5
+  - first:
+      213: -5099093212947926638
+    second: spr_basecharacter_axe_strip10_6
+  - first:
+      213: 7360386734216902656
+    second: spr_basecharacter_axe_strip10_7
+  - first:
+      213: 2039064751661169797
+    second: spr_basecharacter_axe_strip10_8
+  - first:
+      213: -6766761056599988311
+    second: spr_basecharacter_axe_strip10_9
+  - first:
+      213: 7447057423223295953
+    second: spr_basecharacter_axe_strip10_0
+  - first:
+      213: 2327104758118948252
+    second: spr_basecharacter_axe_strip10_1
+  - first:
+      213: 2945977598475939897
+    second: spr_basecharacter_axe_strip10_2
+  - first:
+      213: 1398491132521113784
+    second: spr_basecharacter_axe_strip10_3
+  - first:
+      213: -8738128141298445660
+    second: spr_basecharacter_axe_strip10_4
+  - first:
+      213: -2553669707614874555
+    second: spr_basecharacter_axe_strip10_5
+  - first:
+      213: 8531540071210345035
+    second: spr_basecharacter_axe_strip10_6
+  - first:
+      213: 1436330426808233694
+    second: spr_basecharacter_axe_strip10_7
+  - first:
+      213: -9053216006628672586
+    second: spr_basecharacter_axe_strip10_8
+  - first:
+      213: 8666749327465297941
+    second: spr_basecharacter_axe_strip10_9
+  - first:
+      213: 6260767429504612301
+    second: spr_basecharacter_axe_strip10_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_basecharacter_axe_strip10_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df092d2543495760800000000000000
+      internalID: 7447057423223295953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_axe_strip10_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0.59035534, y: 0.5154605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d1dcea2798b4020800000000000000
+      internalID: 2327104758118948252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_axe_strip10_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.69985354, y: 0.55678654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ba61740732e820800000000000000
+      internalID: 2945977598475939897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_axe_strip10_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.72295237, y: 0.5832843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b864778640786310800000000000000
+      internalID: 1398491132521113784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_axe_strip10_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.77407956, y: 0.60336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2df0880ceebb680800000000000000
+      internalID: -8738128141298445660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_axe_strip10_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3
+        width: 39
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4869737, y: 0.44161633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54490fb4eea8f8cd0800000000000000
+      internalID: -2553669707614874555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_axe_strip10_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3
+        width: 44
+        height: 19
+      alignment: 9
+      pivot: {x: 0.19134036, y: 0.5137674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42e0832e7e166670800000000000000
+      internalID: 8531540071210345035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_axe_strip10_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3
+        width: 47
+        height: 16
+      alignment: 9
+      pivot: {x: 0.18724157, y: 0.59920466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede6df5c9eedee310800000000000000
+      internalID: 1436330426808233694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_axe_strip10_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 3
+        width: 47
+        height: 24
+      alignment: 9
+      pivot: {x: 0.1407159, y: 0.3785173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518bcec489a764870800000000000000
+      internalID: 8666749327465297941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_axe_strip10_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3
+        width: 23
+        height: 18
+      alignment: 9
+      pivot: {x: 0.30664858, y: 0.5347031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc735f06ec6b2e650800000000000000
+      internalID: 6260767429504612301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

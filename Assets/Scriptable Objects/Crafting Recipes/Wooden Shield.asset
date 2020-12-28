@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bb228218ed27d1418debf2e092b5e25, type: 3}
+  m_Name: Wooden Shield
+  m_EditorClassIdentifier: 
+  Id: 0
+  toolRequired: {fileID: 11400000, guid: 64d478866538b0c45863f83c32d644f6, type: 2}
+  Materials:
+  - item: {fileID: 11400000, guid: fb9c805cea4ff534387971ab076f77b6, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: 287f24235c8e120458611c91c83bc633, type: 2}
+    amount: 2
+  Results:
+  - item: {fileID: 11400000, guid: f49a3302008a86d48a5b1b4bd183f67a, type: 2}
+    amount: 1

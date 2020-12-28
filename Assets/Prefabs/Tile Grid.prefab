@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1952001918099840376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1952001918099840382}
+  - component: {fileID: 1952001918099840377}
+  - component: {fileID: 1952001918099840383}
+  m_Layer: 0
+  m_Name: Tile Grid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1952001918099840382
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1952001918099840376}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1952001918099840377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1952001918099840376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ae7195df9c93345b5b41ed7ffa4666, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pools:
+  - tag: Tiles
+    prefab: {fileID: 2778277080079696579, guid: 6cc2f07926f16e7499b2690b600dd0cb,
+      type: 3}
+    variant: []
+    size: 900
+  - tag: Trees
+    prefab: {fileID: 921139793094215142, guid: 99bd55f2c70db424185cf94b4862beb6, type: 3}
+    variant: []
+    size: 150
+  - tag: Rocks
+    prefab: {fileID: 1780811854878193957, guid: 7c4e2a180dfcfde4facadba46d85d871,
+      type: 3}
+    variant: []
+    size: 150
+  - tag: Bushes
+    prefab: {fileID: 6673039336020939667, guid: e186acfebb1c0a040b31d44df10aa10d,
+      type: 3}
+    variant: []
+    size: 150
+  - tag: Detail
+    prefab: {fileID: 2397800903267553481, guid: ec273863e9668284d9d9ee12a5aa016e,
+      type: 3}
+    variant: []
+    size: 300
+  width: 50
+  height: 50
+  tile: {fileID: 2778277080079696579, guid: 6cc2f07926f16e7499b2690b600dd0cb, type: 3}
+  player: {fileID: 0}
+--- !u!114 &1952001918099840383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1952001918099840376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7309eecf90a546945aa3b6332ba971e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  variantList:
+  - gatherableId: 1
+    sprites:
+    - {fileID: 7569457392941921653, guid: 18c94002401fa9c4093b2c152563a37a, type: 3}
+    - {fileID: -258679262203590887, guid: 18c94002401fa9c4093b2c152563a37a, type: 3}
+    - {fileID: -4614042214296212567, guid: 18c94002401fa9c4093b2c152563a37a, type: 3}
+    - {fileID: -5453476145514912783, guid: 18c94002401fa9c4093b2c152563a37a, type: 3}
+  - gatherableId: 2
+    sprites:
+    - {fileID: 1887494081247492234, guid: 0f2ccc07aae859b4f909df78163c35da, type: 3}
+    - {fileID: 2007986136508003152, guid: 0f2ccc07aae859b4f909df78163c35da, type: 3}
+    - {fileID: -5091828049805951605, guid: 0f2ccc07aae859b4f909df78163c35da, type: 3}
+    - {fileID: -5342935890121459157, guid: 0f2ccc07aae859b4f909df78163c35da, type: 3}
+    - {fileID: -1677260544633098824, guid: 0f2ccc07aae859b4f909df78163c35da, type: 3}
+  - gatherableId: 3
+    sprites:
+    - {fileID: -9024284549726575627, guid: ea9abe02d27101844be30a3bdfea313a, type: 3}
+    - {fileID: 1652389370956797237, guid: ea9abe02d27101844be30a3bdfea313a, type: 3}
+  tiles: []
+  boundsX: 10
+  boundsY: 10
+  player: {fileID: 0}
+  chunk: {fileID: 2863068409628171081, guid: 28eb64f0fb7d8794a9efaee6c14eb205, type: 3}
+  worldSizeX: 3
+  worldSizeY: 3
+  playerX: 0
+  playerY: 0
+  playerXOld: 0
+  playerYOld: 0
+  testSprites:
+  - {fileID: 3029773504927001384, guid: b9b405a3f5541d64292c3bd04d25e539, type: 3}
+  - {fileID: 8775948445159610426, guid: b9b405a3f5541d64292c3bd04d25e539, type: 3}
+  - {fileID: -6100315723130913699, guid: b9b405a3f5541d64292c3bd04d25e539, type: 3}
+  - {fileID: -743753799667530979, guid: b9b405a3f5541d64292c3bd04d25e539, type: 3}
+  - {fileID: 5611827324017485462, guid: b9b405a3f5541d64292c3bd04d25e539, type: 3}
+  - {fileID: -2239609455706664614, guid: b9b405a3f5541d64292c3bd04d25e539, type: 3}
+  sprites: []
+  forestSprites: []
+  texture: {fileID: 2800000, guid: b9b405a3f5541d64292c3bd04d25e539, type: 3}
+  streamPath: C:\Users\Arts\Documents\Unity2D\Chunks\
+  streamPathObj: C:\Users\Arts\Documents\Unity2D\Objects\
+  buildableDatabase: {fileID: 11400000, guid: a2d6d2a774ed9214dbbcfdc17cbe8720, type: 2}
+  bo: {fileID: 11400000, guid: d68bc7370d46483409fbf419337d9785, type: 2}
+  sign: {fileID: 4635017143463343784, guid: 21ac385a1af374e428a2d9fbf8cd1884, type: 3}
+  worldSize: 10
+  chunkSize: 10

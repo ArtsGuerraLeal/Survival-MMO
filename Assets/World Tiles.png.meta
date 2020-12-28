@@ -1,0 +1,3968 @@
+fileFormatVersion: 2
+guid: 06e0e02f2f440f9458b38fc64c4897f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Snow_Center
+  - first:
+      213: 21300002
+    second: Grass_Center
+  - first:
+      213: 21300004
+    second: Sand_Center
+  - first:
+      213: 21300006
+    second: Stone
+  - first:
+      213: 21300008
+    second: Wood
+  - first:
+      213: 21300010
+    second: Void_Center
+  - first:
+      213: 21300012
+    second: Water_Center
+  - first:
+      213: 21300014
+    second: Brick_1
+  - first:
+      213: 21300016
+    second: Brick_4
+  - first:
+      213: 21300018
+    second: Brick_3
+  - first:
+      213: 21300020
+    second: Brick_2
+  - first:
+      213: 21300022
+    second: Brick_1Corner
+  - first:
+      213: 21300024
+    second: Brick_1E
+  - first:
+      213: 21300026
+    second: Brick_2E
+  - first:
+      213: 21300028
+    second: Brick_2Corner
+  - first:
+      213: 21300030
+    second: Brick_2S
+  - first:
+      213: 21300032
+    second: Brick_3S
+  - first:
+      213: 21300034
+    second: Brick_3Corner
+  - first:
+      213: 21300036
+    second: Brick_3W
+  - first:
+      213: 21300038
+    second: Brick_4W
+  - first:
+      213: 21300040
+    second: Brick_1N
+  - first:
+      213: 21300042
+    second: Brick_4N
+  - first:
+      213: 21300044
+    second: Brick_4Corner
+  - first:
+      213: 21300046
+    second: Brick_1iCorner
+  - first:
+      213: 21300048
+    second: Brick_2iCorner
+  - first:
+      213: 21300050
+    second: Brick_3iCorner
+  - first:
+      213: 21300052
+    second: Brick_4iCorner
+  - first:
+      213: 21300054
+    second: Empty_Center
+  - first:
+      213: 21300056
+    second: Coniferous
+  - first:
+      213: 21300058
+    second: Desert
+  - first:
+      213: 21300060
+    second: Taiga
+  - first:
+      213: 21300062
+    second: Tropical
+  - first:
+      213: 21300064
+    second: Swamp
+  - first:
+      213: 21300066
+    second: Savannah
+  - first:
+      213: 21300068
+    second: Tundra
+  - first:
+      213: 21300070
+    second: Red
+  - first:
+      213: 21300072
+    second: Orange
+  - first:
+      213: 21300074
+    second: Yellow
+  - first:
+      213: 21300076
+    second: Green
+  - first:
+      213: 21300078
+    second: Cyan
+  - first:
+      213: 21300080
+    second: Blue
+  - first:
+      213: 21300082
+    second: Purple
+  - first:
+      213: 21300084
+    second: Pink
+  - first:
+      213: 21300086
+    second: Black
+  - first:
+      213: 21300088
+    second: Grass_Center
+  - first:
+      213: 21300090
+    second: Indigo
+  - first:
+      213: 21300092
+    second: White
+  - first:
+      213: 21300094
+    second: Grass2
+  - first:
+      213: 21300096
+    second: Grass3
+  - first:
+      213: 21300098
+    second: Grass4
+  - first:
+      213: 21300100
+    second: Grass5
+  - first:
+      213: 21300102
+    second: Dirt1
+  - first:
+      213: 21300104
+    second: Dirt2
+  - first:
+      213: 21300106
+    second: Dirt3
+  - first:
+      213: 21300108
+    second: Coniferous1
+  - first:
+      213: 21300110
+    second: Coniferous2
+  - first:
+      213: 21300112
+    second: Coniferous3
+  - first:
+      213: 21300114
+    second: Coniferous4
+  - first:
+      213: 21300116
+    second: Coniferous5
+  - first:
+      213: 21300118
+    second: Sand_Center
+  - first:
+      213: 21300120
+    second: Sand2
+  - first:
+      213: 21300122
+    second: Sand3
+  - first:
+      213: 21300124
+    second: Swamp1
+  - first:
+      213: 21300126
+    second: Swamp2
+  - first:
+      213: 21300128
+    second: Swamp3
+  - first:
+      213: 21300130
+    second: Swamp4
+  - first:
+      213: 21300132
+    second: Swamp5
+  - first:
+      213: 21300134
+    second: Rock_Center
+  - first:
+      213: 21300136
+    second: Stone2
+  - first:
+      213: 21300138
+    second: Stone3
+  - first:
+      213: 21300140
+    second: Tundra1
+  - first:
+      213: 21300142
+    second: Tundra2
+  - first:
+      213: 21300144
+    second: Tundra3
+  - first:
+      213: 21300146
+    second: Tundra4
+  - first:
+      213: 21300148
+    second: Tundra5
+  - first:
+      213: 21300150
+    second: Water1
+  - first:
+      213: 21300152
+    second: Water2
+  - first:
+      213: 21300154
+    second: Water_Center
+  - first:
+      213: 21300156
+    second: Tropical1
+  - first:
+      213: 21300158
+    second: Tropical2
+  - first:
+      213: 21300160
+    second: Tropical3
+  - first:
+      213: 21300162
+    second: Tropical4
+  - first:
+      213: 21300164
+    second: Tropical5
+  - first:
+      213: 21300166
+    second: PlowedDirt1
+  - first:
+      213: 21300168
+    second: PlowedDirt2
+  - first:
+      213: 21300170
+    second: PlowedDirt3
+  - first:
+      213: 21300172
+    second: Taiga1
+  - first:
+      213: 21300174
+    second: Taiga2
+  - first:
+      213: 21300176
+    second: Snow
+  - first:
+      213: 21300178
+    second: Taiga4
+  - first:
+      213: 21300180
+    second: Taiga5
+  - first:
+      213: 21300182
+    second: Desert1
+  - first:
+      213: 21300184
+    second: Desert2
+  - first:
+      213: 21300186
+    second: Desert3
+  - first:
+      213: 21300188
+    second: Savannah1
+  - first:
+      213: 21300190
+    second: Savannah2
+  - first:
+      213: 21300192
+    second: Savannah3
+  - first:
+      213: 21300194
+    second: Savannah4
+  - first:
+      213: 21300196
+    second: Savannah5
+  - first:
+      213: 21300198
+    second: Void_Center
+  - first:
+      213: 21300200
+    second: Dirt4
+  - first:
+      213: 21300202
+    second: Dirt5
+  - first:
+      213: 21300204
+    second: Plains1
+  - first:
+      213: 21300206
+    second: Plains2
+  - first:
+      213: 21300208
+    second: Plains3
+  - first:
+      213: 21300210
+    second: Plains4
+  - first:
+      213: 21300212
+    second: Plains5
+  - first:
+      213: 21300214
+    second: Sand4
+  - first:
+      213: 21300216
+    second: Sand5
+  - first:
+      213: -1676369360392917639
+    second: Water_Center
+  - first:
+      213: 6869158093134853191
+    second: Sand_Center
+  - first:
+      213: -5362331788933937415
+    second: Rock_Center
+  - first:
+      213: -2875342718074409914
+    second: Snow
+  - first:
+      213: 3292041761643667844
+    second: Grass_Center
+  - first:
+      213: -166841893542879194
+    second: Grass_Top
+  - first:
+      213: 6057538583086430987
+    second: Grass_Top_Left_Corner
+  - first:
+      213: 8404372951384655708
+    second: Grass_Left
+  - first:
+      213: -7088742254090783619
+    second: Grass_Top_Right_Corner
+  - first:
+      213: 337496140748247615
+    second: Grass_Right
+  - first:
+      213: 6122946181011120742
+    second: Grass_Bottom
+  - first:
+      213: -4394797761269969418
+    second: Grass_Bot_Right_Corner
+  - first:
+      213: -7866140130442371859
+    second: Grass_Bot_Left_corner
+  - first:
+      213: -4750400317407347672
+    second: Grass_Inner_Bot_Right
+  - first:
+      213: -4720332531534874603
+    second: Grass_Inner_Top_Right
+  - first:
+      213: -8979086086827169065
+    second: Grass_Inner_Bot_Left
+  - first:
+      213: -275782033346777123
+    second: Grass_Inner_Top_Left
+  - first:
+      213: -7572919599852761318
+    second: Void_Center
+  - first:
+      213: -2761525833325265903
+    second: Empty_Center
+  - first:
+      213: -1676369360392917639
+    second: aaas
+  - first:
+      213: 6869158093134853191
+    second: World Tiles_1
+  - first:
+      213: -5362331788933937415
+    second: World Tiles_2
+  - first:
+      213: -2875342718074409914
+    second: World Tiles_3
+  - first:
+      213: -1487111777357695469
+    second: World Tiles_4
+  - first:
+      213: -628591387865334671
+    second: World Tiles_5
+  - first:
+      213: -2435541089707479999
+    second: World Tiles_6
+  - first:
+      213: -9019709237543742832
+    second: World Tiles_7
+  - first:
+      213: -8275446171821381825
+    second: Grass_Inner_Bot_Right
+  - first:
+      213: 4713187732880594597
+    second: Grass_Inner_Bot_Left
+  - first:
+      213: 7447052142375021713
+    second: Grass_Top_Left_Corner
+  - first:
+      213: 5850553143471077676
+    second: Grass_Top
+  - first:
+      213: 3121191307670310649
+    second: Grass_Top_Right_Corner
+  - first:
+      213: 4246149601392303550
+    second: World Tiles_13
+  - first:
+      213: 451031717594510153
+    second: World Tiles_14
+  - first:
+      213: -4397422625825731656
+    second: World Tiles_15
+  - first:
+      213: -8296618159619608761
+    second: World Tiles_16
+  - first:
+      213: -7572919599852761318
+    second: World Tiles_17
+  - first:
+      213: -2761525833325265903
+    second: Sandss
+  - first:
+      213: -3594197666505759588
+    second: World Tiles_19
+  - first:
+      213: -7334759725768650029
+    second: World Tiles_20
+  - first:
+      213: 3916473730351030007
+    second: Grass_Inner_Top_Right
+  - first:
+      213: 647141936852317426
+    second: Grass_Inner_Top_Left
+  - first:
+      213: 2718407860839670475
+    second: Grass_Left
+  - first:
+      213: -1820604266420636668
+    second: Grass_Center
+  - first:
+      213: 1543043388639035554
+    second: Grass_Right
+  - first:
+      213: -768810832148040893
+    second: World Tiles_26
+  - first:
+      213: -3385305788172444070
+    second: World Tiles_27
+  - first:
+      213: 2501207096824901581
+    second: World Tiles_28
+  - first:
+      213: 9189594208467756295
+    second: World Tiles_29
+  - first:
+      213: 5453730507159556877
+    second: World Tiles_30
+  - first:
+      213: -2274716503561654317
+    second: World Tiles_31
+  - first:
+      213: 1643396918719549159
+    second: World Tiles_32
+  - first:
+      213: 4506343357278690064
+    second: World Tiles_33
+  - first:
+      213: 2504943916772563725
+    second: Sand_Inner_Bot_Right
+  - first:
+      213: -6981768836642758271
+    second: Sand_Inner_Bot_Left
+  - first:
+      213: 3836309884981028526
+    second: Grass_Bot_Left_Corner
+  - first:
+      213: -5785287711321479826
+    second: Grass_Bottom
+  - first:
+      213: 2826690992891598177
+    second: Grass_Bot_Right_Corner
+  - first:
+      213: 5804746944947666359
+    second: World Tiles_39
+  - first:
+      213: 734704697511795357
+    second: World Tiles_40
+  - first:
+      213: 5388210236702736612
+    second: World Tiles_41
+  - first:
+      213: 3271758407174482338
+    second: World Tiles_42
+  - first:
+      213: -4608937060247947463
+    second: World Tiles_43
+  - first:
+      213: 1010001368004328014
+    second: World Tiles_44
+  - first:
+      213: 4704897361960336771
+    second: World Tiles_45
+  - first:
+      213: 2881387875957858410
+    second: World Tiles_46
+  - first:
+      213: 1254950310553161189
+    second: Sand_Inner_Top_Right
+  - first:
+      213: -2617208559241933043
+    second: Sand_Inner_Top_Left
+  - first:
+      213: -7117949500973802823
+    second: Sand_Top_Left_Corner
+  - first:
+      213: -3235077704610479383
+    second: Sand_Top
+  - first:
+      213: -8497127850596352824
+    second: Sand_Top_Right_Corner
+  - first:
+      213: -1329125277686394191
+    second: World Tiles_52
+  - first:
+      213: -1759868452224891182
+    second: World Tiles_53
+  - first:
+      213: 6567116681063820125
+    second: World Tiles_54
+  - first:
+      213: 2106125409337706768
+    second: World Tiles_55
+  - first:
+      213: -5043811953179395968
+    second: World Tiles_56
+  - first:
+      213: 9191843373609986697
+    second: World Tiles_57
+  - first:
+      213: -7880243924480156971
+    second: World Tiles_58
+  - first:
+      213: -5975934910433139176
+    second: World Tiles_59
+  - first:
+      213: -7626675322902933954
+    second: Snow_Inner_Bot_Right
+  - first:
+      213: -1454285365578101826
+    second: Snow_Inner_Bot_Left
+  - first:
+      213: 3985952035065761322
+    second: Sand_Left
+  - first:
+      213: 6584517227538984012
+    second: Sand_Center
+  - first:
+      213: 3554839985427741580
+    second: Sand_Right
+  - first:
+      213: 3722592012497273222
+    second: World Tiles_65
+  - first:
+      213: -391146642576385777
+    second: Snow
+  - first:
+      213: -6412484176893307223
+    second: World Tiles_67
+  - first:
+      213: 4123488437665910717
+    second: World Tiles_68
+  - first:
+      213: 5032911144198113973
+    second: World Tiles_69
+  - first:
+      213: 3118627560032379461
+    second: World Tiles_70
+  - first:
+      213: -6516655743725862716
+    second: World Tiles_71
+  - first:
+      213: 8828878704599572778
+    second: World Tiles_72
+  - first:
+      213: 3379801819288364492
+    second: Snow_Inner_Top_Right
+  - first:
+      213: 4875324181537080632
+    second: Snow_Inner_Top_Left
+  - first:
+      213: 8107888691965628826
+    second: Sand_Bot_Left_Corner
+  - first:
+      213: -4945849743033972795
+    second: Sand_Bottom
+  - first:
+      213: -2938365677291245013
+    second: Sand_Bot_Right_Corner
+  - first:
+      213: 5347444743559267571
+    second: World Tiles_78
+  - first:
+      213: -4259034649621203584
+    second: World Tiles_79
+  - first:
+      213: 3883635904319848221
+    second: World Tiles_80
+  - first:
+      213: -76806274036798111
+    second: World Tiles_81
+  - first:
+      213: -5710347377227132041
+    second: World Tiles_82
+  - first:
+      213: -8201708285933310211
+    second: Empty_Center
+  - first:
+      213: -2440173795879349577
+    second: World Tiles_84
+  - first:
+      213: 8121011609242825691
+    second: World Tiles_85
+  - first:
+      213: -972544427950933256
+    second: Water_Inner_Bot_Right
+  - first:
+      213: 4097701478125573503
+    second: Water_Inner_Bot_Left
+  - first:
+      213: -4681734811494208301
+    second: Snow_Top_Left_Corner
+  - first:
+      213: -5944828358186208458
+    second: Snow_Top
+  - first:
+      213: 1161870088651155045
+    second: Snow_Top_Right_Corner
+  - first:
+      213: 8499032335600480536
+    second: World Tiles_91
+  - first:
+      213: 2898072575810015286
+    second: World Tiles_92
+  - first:
+      213: 7280464552186676151
+    second: World Tiles_93
+  - first:
+      213: 8384725577131131430
+    second: World Tiles_94
+  - first:
+      213: 6600904471071152924
+    second: World Tiles_95
+  - first:
+      213: 3498036813115178687
+    second: World Tiles_96
+  - first:
+      213: 6625454716202477185
+    second: World Tiles_97
+  - first:
+      213: -1179092587234047421
+    second: Water_Inner_Top_Right
+  - first:
+      213: -1668673958974173001
+    second: Water_Inner_Top_Left
+  - first:
+      213: 7824805640534434773
+    second: Snow_Left
+  - first:
+      213: 3862221154543190810
+    second: Snow_Center
+  - first:
+      213: -1084586018135008489
+    second: Snow_Right
+  - first:
+      213: -3547756332918058947
+    second: Rock_Inner_Bot_Right
+  - first:
+      213: -8549672673670017439
+    second: Rock_Inner_Bot_Left
+  - first:
+      213: 5972432595439686413
+    second: Snow_Bot_Left_Corner
+  - first:
+      213: -8874325930324651754
+    second: Snow_Bottom
+  - first:
+      213: -1566731005848440626
+    second: Snow_Bot_Right_Corner
+  - first:
+      213: -6462783459015990469
+    second: Rock_Inner_Top_Right
+  - first:
+      213: 1617816512319474796
+    second: Rock_Inner_Top_Left
+  - first:
+      213: 7934776713701744775
+    second: Water_Top_Left_Corner
+  - first:
+      213: 1157080463664576188
+    second: Water_Top
+  - first:
+      213: -5099196242892343196
+    second: Water_Top_Right_Corner
+  - first:
+      213: 3756354700475495209
+    second: Water_Left
+  - first:
+      213: 6588665885212051882
+    second: Water_Center
+  - first:
+      213: -4219370559541236197
+    second: Water_Right
+  - first:
+      213: 8858728365015032790
+    second: Water_Bot_Left_Corner
+  - first:
+      213: 4383241361332014796
+    second: Water_Bottom
+  - first:
+      213: 1796898730667148374
+    second: Water_Bot_Right_Corner
+  - first:
+      213: 1216103332115730186
+    second: Rock_Top_Left_Corner
+  - first:
+      213: -44817765124775231
+    second: Rock_Top
+  - first:
+      213: -5742806417172246814
+    second: Rock_Top_Right_Corner
+  - first:
+      213: -3084205277120085900
+    second: Rock_Left
+  - first:
+      213: 995780040257323261
+    second: Rock_Center
+  - first:
+      213: 6890268124412778583
+    second: Rock_Right
+  - first:
+      213: -8186675012374408451
+    second: Rock_Bot_Left_Corner
+  - first:
+      213: 5806122040429319430
+    second: Rock_Bottom
+  - first:
+      213: -9012661951856053609
+    second: Rock_Bot_Right_Corner
+  - first:
+      213: -1012326222015940146
+    second: World Tiles_128
+  - first:
+      213: -1676369360392917639
+    second: World Tiles_0
+  - first:
+      213: -4750400317407347672
+    second: World Tiles_13
+  - first:
+      213: -4720332531534874603
+    second: World Tiles_14
+  - first:
+      213: -8979086086827169065
+    second: World Tiles_15
+  - first:
+      213: -275782033346777123
+    second: World Tiles_16
+  - first:
+      213: 7359468442223065804
+    second: World Tiles_17
+  - first:
+      213: 6764620363115398890
+    second: World Tiles_18
+  - first:
+      213: -3069723905799039159
+    second: World Tiles_19
+  - first:
+      213: 4034589065152151220
+    second: World Tiles_20
+  - first:
+      213: -6832485047634216059
+    second: Grass_Inner_Top_Right
+  - first:
+      213: -727600123507157018
+    second: Grass_Inner_Top_Left
+  - first:
+      213: 3553935818576937255
+    second: Grass_Left
+  - first:
+      213: -1820604266420636668
+    second: Grass_Center
+  - first:
+      213: -3513345502959086311
+    second: Grass_Right
+  - first:
+      213: -6680627035692979569
+    second: World Tiles_26
+  - first:
+      213: -6384146259406519757
+    second: World Tiles_27
+  - first:
+      213: 2144418468527305234
+    second: World Tiles_28
+  - first:
+      213: -6766177896624063019
+    second: World Tiles_29
+  - first:
+      213: -84903723892756632
+    second: World Tiles_30
+  - first:
+      213: 4584743311603547049
+    second: World Tiles_31
+  - first:
+      213: -5189052966744365065
+    second: World Tiles_32
+  - first:
+      213: 134900572194150856
+    second: World Tiles_33
+  - first:
+      213: 2679370642018776342
+    second: Sand_Inner_Bot_Right
+  - first:
+      213: -4987358330605206229
+    second: Sand_Inner_Bot_Left
+  - first:
+      213: -8828794118378980221
+    second: Grass_Bot_Left_Corner
+  - first:
+      213: 142591592320686313
+    second: Grass_Bottom
+  - first:
+      213: -9083720284321935798
+    second: Grass_Bot_Right_Corner
+  - first:
+      213: -7610868758538016339
+    second: World Tiles_39
+  - first:
+      213: 6781552237701669661
+    second: World Tiles_40
+  - first:
+      213: -1314550587419452692
+    second: World Tiles_41
+  - first:
+      213: 8702868190547982914
+    second: World Tiles_42
+  - first:
+      213: -7340984174491954826
+    second: World Tiles_43
+  - first:
+      213: -696751429392087539
+    second: World Tiles_44
+  - first:
+      213: -7393001115061955611
+    second: World Tiles_45
+  - first:
+      213: -372800007532970890
+    second: World Tiles_46
+  - first:
+      213: -8015730869654704571
+    second: Sand_Inner_Top_Right
+  - first:
+      213: 8565438779849245573
+    second: Sand_Inner_Top_Left
+  - first:
+      213: 8203023075958954536
+    second: Sand_Top_Left_Corner
+  - first:
+      213: 5215207521381215530
+    second: Sand_Top
+  - first:
+      213: -4180453350066816830
+    second: Sand_Top_Right_Corner
+  - first:
+      213: 2397390282483745788
+    second: World Tiles_52
+  - first:
+      213: 8918284768484009851
+    second: World Tiles_53
+  - first:
+      213: -2014235929771747034
+    second: World Tiles_54
+  - first:
+      213: -6581322960642191081
+    second: World Tiles_55
+  - first:
+      213: 3740403244665250568
+    second: World Tiles_56
+  - first:
+      213: -2641273675282994039
+    second: World Tiles_57
+  - first:
+      213: 6375298720395612479
+    second: World Tiles_58
+  - first:
+      213: 8771515524567065400
+    second: World Tiles_59
+  - first:
+      213: -3124131602689248890
+    second: Snow_Inner_Bot_Right
+  - first:
+      213: -2201883419580536524
+    second: Snow_Inner_Bot_Left
+  - first:
+      213: -5846799698846023572
+    second: Sand_Left
+  - first:
+      213: 6584517227538984012
+    second: Sand_Center
+  - first:
+      213: 7329165215445404121
+    second: Sand_Right
+  - first:
+      213: -3140643145332039810
+    second: World Tiles_65
+  - first:
+      213: -4248252988502495442
+    second: Snow
+  - first:
+      213: 4423820864157507633
+    second: World Tiles_67
+  - first:
+      213: 6467478237278393419
+    second: World Tiles_68
+  - first:
+      213: 840500054021372055
+    second: World Tiles_69
+  - first:
+      213: 4675351791181657334
+    second: World Tiles_70
+  - first:
+      213: -4934882652168204067
+    second: World Tiles_71
+  - first:
+      213: 3418276301165583375
+    second: World Tiles_72
+  - first:
+      213: 8028870086536040734
+    second: Snow_Inner_Top_Right
+  - first:
+      213: 8335372770171280620
+    second: Snow_Inner_Top_Left
+  - first:
+      213: 9180722533415397122
+    second: Sand_Bot_Left_Corner
+  - first:
+      213: 5466444808760085343
+    second: Sand_Bottom
+  - first:
+      213: 634530554621254372
+    second: Sand_Bot_Right_Corner
+  - first:
+      213: -1332537736904568462
+    second: World Tiles_78
+  - first:
+      213: 4722132381593249202
+    second: World Tiles_79
+  - first:
+      213: -957019495968572899
+    second: World Tiles_80
+  - first:
+      213: 5867736764579736970
+    second: World Tiles_81
+  - first:
+      213: 4972363319204403795
+    second: World Tiles_82
+  - first:
+      213: 5887303025622386552
+    second: Empty_Center
+  - first:
+      213: 4138448991657329917
+    second: World Tiles_84
+  - first:
+      213: 8335648191872030260
+    second: World Tiles_85
+  - first:
+      213: 7291445823558726702
+    second: Water_Inner_Bot_Right
+  - first:
+      213: -2791406400600583956
+    second: Water_Inner_Bot_Left
+  - first:
+      213: 4284490467381193940
+    second: Snow_Top_Left_Corner
+  - first:
+      213: 6716175349306980664
+    second: Snow_Top
+  - first:
+      213: -6770561506550450598
+    second: Snow_Top_Right_Corner
+  - first:
+      213: 8505088806582807388
+    second: World Tiles_91
+  - first:
+      213: 9008691622327152656
+    second: World Tiles_92
+  - first:
+      213: 8194356324171268952
+    second: World Tiles_93
+  - first:
+      213: 3568074263302376186
+    second: World Tiles_94
+  - first:
+      213: 8989526954403968999
+    second: World Tiles_95
+  - first:
+      213: -5512814390372580940
+    second: World Tiles_96
+  - first:
+      213: -2104933483551692039
+    second: World Tiles_97
+  - first:
+      213: -253993371406250932
+    second: Water_Inner_Top_Right
+  - first:
+      213: 3626856578755071472
+    second: Water_Inner_Top_Left
+  - first:
+      213: -7692250917536200593
+    second: Snow_Left
+  - first:
+      213: 3862221154543190810
+    second: Snow_Center
+  - first:
+      213: -5694062172132630475
+    second: Snow_Right
+  - first:
+      213: 9047326771113823515
+    second: Rock_Inner_Bot_Right
+  - first:
+      213: 7635266911087198380
+    second: Rock_Inner_Bot_Left
+  - first:
+      213: -9010923676124957130
+    second: Snow_Bot_Left_Corner
+  - first:
+      213: 6542749160263731253
+    second: Snow_Bottom
+  - first:
+      213: -6980583261527782516
+    second: Snow_Bot_Right_Corner
+  - first:
+      213: -5154572603904089956
+    second: Rock_Inner_Top_Right
+  - first:
+      213: 8801397851293258818
+    second: Rock_Inner_Top_Left
+  - first:
+      213: 3056428171802191762
+    second: Water_Top_Left_Corner
+  - first:
+      213: -369915342059702252
+    second: Water_Top
+  - first:
+      213: -2897661172396576018
+    second: Water_Top_Right_Corner
+  - first:
+      213: -2123002462569822914
+    second: Water_Left
+  - first:
+      213: 6588665885212051882
+    second: Water_Center
+  - first:
+      213: -692329141488759339
+    second: Water_Right
+  - first:
+      213: 3480005084738322541
+    second: Water_Bot_Left_Corner
+  - first:
+      213: -5558611164143483986
+    second: Water_Bottom
+  - first:
+      213: 6340102589839969793
+    second: Water_Bot_Right_Corner
+  - first:
+      213: 5184007374036039195
+    second: Rock_Top_Left_Corner
+  - first:
+      213: -1743249797672334657
+    second: Rock_Top
+  - first:
+      213: 6345809779840501850
+    second: Rock_Top_Right_Corner
+  - first:
+      213: -691441645259215418
+    second: Rock_Left
+  - first:
+      213: 995780040257323261
+    second: Rock_Center
+  - first:
+      213: 4886042893035324898
+    second: Rock_Right
+  - first:
+      213: 7466946462918922980
+    second: Rock_Bot_Left_Corner
+  - first:
+      213: -7785934098072988742
+    second: Rock_Bottom
+  - first:
+      213: 7507968508962771481
+    second: Rock_Bot_Right_Corner
+  - first:
+      213: -391146642576385777
+    second: World Tiles_66
+  - first:
+      213: -8201708285933310211
+    second: Void_Center
+  - first:
+      213: 7447052142375021713
+    second: Grass_Top_Left_Corner
+  - first:
+      213: 7480837744903073433
+    second: Grass_Top_Left_Corner
+  - first:
+      213: 7447052142375021713
+    second: Empty
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d6e61d2f65cb8e0800000000000000
+      internalID: -1676369360392917639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7447d4f24e6245f50800000000000000
+      internalID: 6869158093134853191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6cec816ab2595b0800000000000000
+      internalID: -5362331788933937415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c2ba9380bb818d0800000000000000
+      internalID: -2875342718074409914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3167b41b7b7bc5be0800000000000000
+      internalID: -1487111777357695469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cba61967bc647f0800000000000000
+      internalID: -628591387865334671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c2e107848333ed0800000000000000
+      internalID: -2435541089707479999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09255e6ac3e83d280800000000000000
+      internalID: -9019709237543742832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Inner_Bot_Right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3768ba4d85b72d80800000000000000
+      internalID: -8275446171821381825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Inner_Bot_Left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a69312854b986140800000000000000
+      internalID: 4713187732880594597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Top
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2973202617513150800000000000000
+      internalID: 5850553143471077676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Top_Right_Corner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fec9b125f2b05b20800000000000000
+      internalID: 3121191307670310649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Center
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404ff6fc01aebb6e0800000000000000
+      internalID: -1820604266420636668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Center
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ca6ec3887e06b50800000000000000
+      internalID: 6584517227538984012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Center
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13cb885dad599530800000000000000
+      internalID: 3862221154543190810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Center
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa98ccfd6b4af6b50800000000000000
+      internalID: 6588665885212051882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Center
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df046f5bba8b1dd00800000000000000
+      internalID: 995780040257323261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c380c7410331eb0800000000000000
+      internalID: -4750400317407347672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b42c62920e7eb0800000000000000
+      internalID: -4720332531534874603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa30bf6c0e36380800000000000000
+      internalID: -8979086086827169065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf2eeaa3b93c2cf0800000000000000
+      internalID: -275782033346777123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca376a5e85122660800000000000000
+      internalID: 7359468442223065804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae60ed73162c0ed50800000000000000
+      internalID: 6764620363115398890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947d25c2f562665d0800000000000000
+      internalID: -3069723905799039159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beb11be06dbdf730800000000000000
+      internalID: 4034589065152151220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Inner_Top_Right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b389a9c032e21a0800000000000000
+      internalID: -6832485047634216059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Inner_Top_Left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e753dbea8b07e5f0800000000000000
+      internalID: -727600123507157018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721c0d42ccd125130800000000000000
+      internalID: 3553935818576937255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Right
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91558ea21e61e3fc0800000000000000
+      internalID: -3513345502959086311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a26a44b15a943a0800000000000000
+      internalID: -6680627035692979569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3328fed3dc4f667a0800000000000000
+      internalID: -6384146259406519757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127b5a4c3182cd10800000000000000
+      internalID: 2144418468527305234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7f904d05b912a0800000000000000
+      internalID: -6766177896624063019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fa341538c52def0800000000000000
+      internalID: -84903723892756632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab3a7a30c740af30800000000000000
+      internalID: 4584743311603547049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7e38cc1d7ccf7b0800000000000000
+      internalID: -5189052966744365065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c911ad0b534fd100800000000000000
+      internalID: 134900572194150856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Inner_Bot_Right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615b32b27690f2520800000000000000
+      internalID: 2679370642018776342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Inner_Bot_Left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2501b0c50859cab0800000000000000
+      internalID: -4987358330605206229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Bot_Left_Corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c76fab682d97580800000000000000
+      internalID: -8828794118378980221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Bottom
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e85b383c469af100800000000000000
+      internalID: 142591592320686313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Bot_Right_Corner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e0bfd678420f180800000000000000
+      internalID: -9083720284321935798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9293f2033c06690800000000000000
+      internalID: -7610868758538016339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13a6f974d9ec1e50800000000000000
+      internalID: 6781552237701669661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea159d9437c1cde0800000000000000
+      internalID: -1314550587419452692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ab8a0728cc6c870800000000000000
+      internalID: 8702868190547982914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67194a999c59f1a90800000000000000
+      internalID: -7340984174491954826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06c65a3444a456f0800000000000000
+      internalID: -696751429392087539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35aa8d7a8c66990800000000000000
+      internalID: -7393001115061955611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cfbba4e5c83daf0800000000000000
+      internalID: -372800007532970890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Inner_Top_Right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e29134e3762c090800000000000000
+      internalID: -8015730869654704571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Inner_Top_Left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583054a403d8ed670800000000000000
+      internalID: 8565438779849245573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Top_Left_Corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a9ddea60ef6d170800000000000000
+      internalID: 8203023075958954536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Top
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d6fddfb93206840800000000000000
+      internalID: 5215207521381215530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Top_Right_Corner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8fc2db3db0cf5c0800000000000000
+      internalID: -4180453350066816830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ca6f82cd354120800000000000000
+      internalID: 2397390282483745788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77244feebc14cb70800000000000000
+      internalID: 8918284768484009851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6295020081ffb04e0800000000000000
+      internalID: -2014235929771747034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711dccaf2a17aa4a0800000000000000
+      internalID: -6581322960642191081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803adfafee498e330800000000000000
+      internalID: 3740403244665250568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98caa2e169f485bd0800000000000000
+      internalID: -2641273675282994039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31de2e886c997850800000000000000
+      internalID: 6375298720395612479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833e4a765eeaab970800000000000000
+      internalID: 8771515524567065400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Inner_Bot_Right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681b2261cdad4a4d0800000000000000
+      internalID: -3124131602689248890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Inner_Bot_Left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439641b22b65171e0800000000000000
+      internalID: -2201883419580536524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c600c6dc6aefbdea0800000000000000
+      internalID: -5846799698846023572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Right
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9c5ce8eec66b560800000000000000
+      internalID: 7329165215445404121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fd73cf2b13a64d0800000000000000
+      internalID: -3140643145332039810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f21584a6c2b05c0800000000000000
+      internalID: -4248252988502495442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b445c8dc03911c950800000000000000
+      internalID: 6467478237278393419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798f3a1985e0aab00800000000000000
+      internalID: 840500054021372055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f47e59deaf22e040800000000000000
+      internalID: 4675351791181657334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0d64dbf56c38bb0800000000000000
+      internalID: -4934882652168204067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c5c136f28207f20800000000000000
+      internalID: 3418276301165583375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Inner_Top_Right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e119dbf0ec64c6f60800000000000000
+      internalID: 8028870086536040734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Inner_Top_Left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecd58c2f513da370800000000000000
+      internalID: 8335372770171280620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Bot_Left_Corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20726a9a08a786f70800000000000000
+      internalID: 9180722533415397122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Bottom
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b4c625796bcdb40800000000000000
+      internalID: 5466444808760085343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand_Bot_Right_Corner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ead4537d2e4ec800800000000000000
+      internalID: 634530554621254372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27110060dffd18de0800000000000000
+      internalID: -1332537736904568462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b52c33d162688140800000000000000
+      internalID: 4722132381593249202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a7ba3c6dbf7b2f0800000000000000
+      internalID: -957019495968572899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d6640bf736e6150800000000000000
+      internalID: 5867736764579736970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a5c571812610540800000000000000
+      internalID: 4972363319204403795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Center
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8770e47d8e6e3b150800000000000000
+      internalID: 5887303025622386552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df40fc47e69be6930800000000000000
+      internalID: 4138448991657329917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436d829cddb2ea370800000000000000
+      internalID: 8335648191872030260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Inner_Bot_Right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e243934485b603560800000000000000
+      internalID: 7291445823558726702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Inner_Bot_Left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0537c0baee249d0800000000000000
+      internalID: -2791406400600583956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Top_Left_Corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcadcf3161957b30800000000000000
+      internalID: 4284490467381193940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Top
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8397da875e5a43d50800000000000000
+      internalID: 6716175349306980664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Top_Right_Corner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5670288e222a02a0800000000000000
+      internalID: -6770561506550450598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5be48b2535280670800000000000000
+      internalID: 8505088806582807388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010f8d7ec4d450d70800000000000000
+      internalID: 9008691622327152656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853443949a338b170800000000000000
+      internalID: 8194356324171268952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa0a5453a8548130800000000000000
+      internalID: 3568074263302376186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e73c00f22731cc70800000000000000
+      internalID: 8989526954403968999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b14e25258c8e73b0800000000000000
+      internalID: -5512814390372580940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa631d2626c9c2e0800000000000000
+      internalID: -2104933483551692039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Inner_Top_Right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cc60adf52a97cf0800000000000000
+      internalID: -253993371406250932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Inner_Top_Left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd0cfba7de255230800000000000000
+      internalID: 3626856578755071472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f680519bb82af3590800000000000000
+      internalID: -7692250917536200593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Right
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ab057f90aaf0b0800000000000000
+      internalID: -5694062172132630475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Inner_Bot_Right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d0f1773cf8e8d70800000000000000
+      internalID: 9047326771113823515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Inner_Bot_Left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca085a06dcae5f960800000000000000
+      internalID: 7635266911087198380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Bot_Left_Corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6363a6298a4c2f280800000000000000
+      internalID: -9010923676124957130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Bottom
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538410042b38cca50800000000000000
+      internalID: 6542749160263731253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snow_Bot_Right_Corner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b4993228cff1f90800000000000000
+      internalID: -6980583261527782516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Inner_Top_Right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90265fd6874778b0800000000000000
+      internalID: -5154572603904089956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Inner_Top_Left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449835c6b8d42a70800000000000000
+      internalID: 8801397851293258818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Top_Left_Corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29724c58a3d9a6a20800000000000000
+      internalID: 3056428171802191762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Top
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418709fc4fbcddaf0800000000000000
+      internalID: -369915342059702252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Top_Right_Corner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee23cd3248079c7d0800000000000000
+      internalID: -2897661172396576018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e350f3922849982e0800000000000000
+      internalID: -2123002462569822914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Right
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd49ed505a5466f0800000000000000
+      internalID: -692329141488759339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Bot_Left_Corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60816ccf267b4030800000000000000
+      internalID: 3480005084738322541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Bottom
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305b4d898dbd2b0800000000000000
+      internalID: -5558611164143483986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Bot_Right_Corner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e02f2d6b19cf750800000000000000
+      internalID: 6340102589839969793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Top_Left_Corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b167c6a9d3b41f740800000000000000
+      internalID: 5184007374036039195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Top
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba08fe8b8bbec7e0800000000000000
+      internalID: -1743249797672334657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Top_Right_Corner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58c79b8f58d01850800000000000000
+      internalID: 6345809779840501850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cda96fac718766f0800000000000000
+      internalID: -691441645259215418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Right
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e541b4bf16bec340800000000000000
+      internalID: 4886042893035324898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Bot_Left_Corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e254271f3cef9760800000000000000
+      internalID: 7466946462918922980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Bottom
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab312cf703ec2f390800000000000000
+      internalID: -7785934098072988742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Bot_Right_Corner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9129b897499a13860800000000000000
+      internalID: 7507968508962771481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09d522733e529af0800000000000000
+      internalID: -391146642576385777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void_Center
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe2199b4cdad2e80800000000000000
+      internalID: -8201708285933310211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Top_Left_Corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e28473b4641d760800000000000000
+      internalID: 7480837744903073433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c2312a77e395760800000000000000
+      internalID: 7447052142375021713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a717db78ad26d7744b4ee38f8de843cd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

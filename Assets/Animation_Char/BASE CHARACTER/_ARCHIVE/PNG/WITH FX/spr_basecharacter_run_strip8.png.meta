@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 01d967570ca4366428d38f87ff7ca3ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6310265667346248611
+    second: spr_basecharacter_run_strip8_0
+  - first:
+      213: -5125017039915900773
+    second: spr_basecharacter_run_strip8_1
+  - first:
+      213: -1723687667392151108
+    second: spr_basecharacter_run_strip8_2
+  - first:
+      213: -3768414158870491049
+    second: spr_basecharacter_run_strip8_3
+  - first:
+      213: 16934311845478399
+    second: spr_basecharacter_run_strip8_4
+  - first:
+      213: -8587978886368007722
+    second: spr_basecharacter_run_strip8_5
+  - first:
+      213: -5868019220257689608
+    second: spr_basecharacter_run_strip8_6
+  - first:
+      213: -3301998044729215544
+    second: spr_basecharacter_run_strip8_7
+  - first:
+      213: 8388031846727609053
+    second: spr_basecharacter_run_strip8_8
+  - first:
+      213: -4920348900473042675
+    second: spr_basecharacter_run_strip8_0
+  - first:
+      213: -497649984699169051
+    second: spr_basecharacter_run_strip8_1
+  - first:
+      213: -8005131451695186219
+    second: spr_basecharacter_run_strip8_2
+  - first:
+      213: 3003932331018468419
+    second: spr_basecharacter_run_strip8_3
+  - first:
+      213: -3737653535277709868
+    second: spr_basecharacter_run_strip8_4
+  - first:
+      213: -2481192046852602611
+    second: spr_basecharacter_run_strip8_5
+  - first:
+      213: 8174788469091174304
+    second: spr_basecharacter_run_strip8_6
+  - first:
+      213: -8637040848077790374
+    second: spr_basecharacter_run_strip8_7
+  - first:
+      213: -449600317830108415
+    second: spr_basecharacter_run_strip8_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_basecharacter_run_strip8_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0902508eb867bbb0800000000000000
+      internalID: -4920348900473042675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_run_strip8_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6078fb9fdf719f0800000000000000
+      internalID: -497649984699169051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_run_strip8_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deb6619b5f08e090800000000000000
+      internalID: -8005131451695186219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_run_strip8_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 5
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cbaaf1a8c10b920800000000000000
+      internalID: 3003932331018468419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_run_strip8_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d50a40a9ef212cc0800000000000000
+      internalID: -3737653535277709868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_run_strip8_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0583d3baf8019dd0800000000000000
+      internalID: -2481192046852602611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_run_strip8_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7832efccea27170800000000000000
+      internalID: 8174788469091174304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_basecharacter_run_strip8_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 5
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53e8c31c11132880800000000000000
+      internalID: -8637040848077790374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: f3e01c9f0f54f544d9f28a84d6a4eade
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5529835159045910783
+    second: treepacknewest_0
+  - first:
+      213: 4092704010590357105
+    second: treepacknewest_1
+  - first:
+      213: -1917416608147941876
+    second: treepacknewest_2
+  - first:
+      213: 5780212727017151357
+    second: treepacknewest_3
+  - first:
+      213: -4368243522375642579
+    second: treepacknewest_4
+  - first:
+      213: -7248763283046282371
+    second: treepacknewest_5
+  - first:
+      213: 6465588202626324855
+    second: treepacknewest_6
+  - first:
+      213: 3543514079409029677
+    second: treepacknewest_7
+  - first:
+      213: -4001718714077534176
+    second: treepacknewest_8
+  - first:
+      213: 6672232570739810671
+    second: treepacknewest_9
+  - first:
+      213: 4971034473769521428
+    second: treepacknewest_10
+  - first:
+      213: -8741914697339251216
+    second: treepacknewest_11
+  - first:
+      213: 8800543165336060421
+    second: treepacknewest_12
+  - first:
+      213: -8278313775645932474
+    second: treepacknewest_13
+  - first:
+      213: 3120397710270167970
+    second: treepacknewest_14
+  - first:
+      213: -6637024907543699928
+    second: treepacknewest_15
+  - first:
+      213: 8011320759528251516
+    second: treepacknewest_16
+  - first:
+      213: -7555062060662915525
+    second: treepacknewest_17
+  - first:
+      213: 4112335331953306171
+    second: treepacknewest_18
+  - first:
+      213: -6890516054596755771
+    second: treepacknewest_19
+  - first:
+      213: 5951139066283848518
+    second: treepacknewest_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: treepacknewest_0
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 523
+        width: 178
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0b56167cbedbc40800000000000000
+      internalID: 5529835159045910783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 734
+        width: 192
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1760e021d943cc830800000000000000
+      internalID: 4092704010590357105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 664
+        width: 161
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0658e8f0c7f365e0800000000000000
+      internalID: -1917416608147941876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 842
+        width: 181
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b9c00b9d0773050800000000000000
+      internalID: 5780212727017151357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 670
+        width: 116
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22166c09a1e063c0800000000000000
+      internalID: -4368243522375642579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 514
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bc12d1338376b90800000000000000
+      internalID: -7248763283046282371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 80
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7799f71d6326ab950800000000000000
+      internalID: 6465588202626324855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 516
+        width: 166
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2245c7e7471d2130800000000000000
+      internalID: 3543514079409029677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 810
+        width: 278
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0282064180a0778c0800000000000000
+      internalID: -4001718714077534176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 715
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61ecbd0c28889c50800000000000000
+      internalID: 6672232570739810671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 603
+        width: 66
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411d0472489acf440800000000000000
+      internalID: 4971034473769521428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 634
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5d35046ea7ea680800000000000000
+      internalID: -8741914697339251216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 622
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020950b16fc12a70800000000000000
+      internalID: 8800543165336060421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 450
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644c66f3b758d1d80800000000000000
+      internalID: -8278313775645932474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 484
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab78965f21ed4b20800000000000000
+      internalID: 3120397710270167970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 482
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e1074d20d84e3a0800000000000000
+      internalID: -6637024907543699928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_16
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 480
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70e465f8cded2f60800000000000000
+      internalID: 8011320759528251516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 413
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ef7229517072790800000000000000
+      internalID: -7555062060662915525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 261
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a6d524233f11930800000000000000
+      internalID: 4112335331953306171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 233
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce52a6e728ff50a0800000000000000
+      internalID: -6890516054596755771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treepacknewest_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 197
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6437cc64371b69250800000000000000
+      internalID: 5951139066283848518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
