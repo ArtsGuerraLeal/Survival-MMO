@@ -633,7 +633,7 @@ MonoBehaviour:
   buildableDatabase: {fileID: 0}
   terrainData: {fileID: 0}
   streamPath: C:\Users\Arts\Documents\Unity2D\Chunks\
-  tempChunksPath: C:\Users\Arts\Documents\Unity2D\ArtsCraft\TempChunks\
+  tempChunksPath: C:\Users\Arts\Documents\Chunks\
   serverResponse: 0
   terrainsGenerated: 0
   checkChanged: 0

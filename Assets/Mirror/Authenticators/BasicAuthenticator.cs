@@ -22,6 +22,8 @@ namespace Mirror.Authenticators
 
         public Text helpText;
         public GameObject loginUI;
+        public GameObject characterUI;
+
         public GameObject player;
         public class AuthRequestMessage : MessageBase
         {
@@ -41,23 +43,32 @@ namespace Mirror.Authenticators
 
         public override void OnStartServer()
         {
+
             // register a handler for the authentication request we expect from client
             NetworkServer.RegisterHandler<AuthRequestMessage>(OnAuthRequestMessage, false);
+            Debug.Log("Basic Auth: Server Started");
+
         }
 
         public override void OnStartClient()
         {
+
             // register a handler for the authentication response we expect from server
             NetworkClient.RegisterHandler<AuthResponseMessage>(OnAuthResponseMessage, false);
+            Debug.Log("Basic Auth: Client Started");
         }
 
         public override void OnServerAuthenticate(NetworkConnection conn)
         {
             // do nothing...wait for AuthRequestMessage from client
+            Debug.Log("Basic Auth: Server Authenticated");
+
         }
 
         public override void OnClientAuthenticate(NetworkConnection conn)
         {
+            Debug.Log("Basic Auth: On Client Authenticate");
+
             AuthRequestMessage authRequestMessage = new AuthRequestMessage
             {
                 authUsername = username,
@@ -170,27 +181,46 @@ namespace Mirror.Authenticators
                 if (logger.LogEnabled()) logger.LogFormat(LogType.Log, "Authentication Response: {0}", msg.message);
                 helpText.text = "Logging in!";
                 // Invoke the event to complete a successful authentication
-                OnClientAuthenticated.Invoke(conn);
+              //  
                 loginUI.SetActive(false);
-               // Debug.Log(NetworkClient.connection.identity.gameObject.name);
+                //  characterUI.SetActive(true);
+
+                // Debug.Log(NetworkClient.connection.identity.gameObject.name);
                 //foreach (Transform child in NetworkClient.connection.identity.gameObject.transform)
                 //{
                 //    if (child.tag == "NameTag")
                 //        child.GetComponent<TextMesh>().text = msg.name;
                 //}
                 // NetworkClient.connection.identity.gameObject.transform.position = new Vector3(199, 199, 0);
-                
 
 
-                if (File.Exists(charStreamPath + msg.id + ".json"))
+                //These need to be ran on the server, not the client!!!
+
+                //    OnClientAuthenticated.Invoke(conn);
+             //   GameObject go = Instantiate(player);
+             //   Debug.Log(conn);
+            //    Debug.Log(go);
+
+             //   NetworkServer.AddPlayerForConnection(conn, go);
+
+                if (File.Exists(charStreamPath + msg.name + ".json"))
                 {
                     Debug.Log("PLayer exists");
-                }
-                else {
-                    Debug.Log("Create char");
+                  
+                   
+                //    OnClientAuthenticated.Invoke(conn);
 
                 }
-                //    NetworkServer.AddPlayerForConnection(conn, player);
+                else {
+                    Debug.Log("No Character for account");
+               //     CreateCharacter(msg.name);
+                //    OnClientAuthenticated.Invoke(conn);
+                //    GameObject gameobject = Instantiate(player);
+
+                //    NetworkServer.AddPlayerForConnection(conn, gameobject);
+                    
+
+                }
 
                 Debug.Log("Success Login");
             }
@@ -206,10 +236,10 @@ namespace Mirror.Authenticators
             }
         }
 
-        public void CreateCharacter( string name, int id)
+        public void CreateCharacter( string name)
         {
-            Character newChar = new Character(name, id);
-            using (StreamWriter stream = new StreamWriter(charStreamPath + id + ".json"))
+            Character newChar = new Character(name);
+            using (StreamWriter stream = new StreamWriter(charStreamPath + name + ".json"))
             {
                 string json = JsonUtility.ToJson(newChar, false);
                 stream.Write(json);
@@ -249,13 +279,13 @@ namespace Mirror.Authenticators
     internal class Character
     {
         public string name;
-        public int id;
+   
         
 
-        public Character(string name, int id)
+        public Character(string name)
         {
             this.name = name;
-            this.id = id;
+
 
         }
 

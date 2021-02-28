@@ -26,6 +26,9 @@ public partial class NetworkManagerMMO : NetworkManager
         public static NetworkManagerMMO instance;
         public GameObject loginCamera;
 
+        public enum NetworkManagerMode { Offline, ServerOnly, ClientOnly, Host }
+
+
     private void Awake()
     {
       
@@ -41,6 +44,13 @@ public partial class NetworkManagerMMO : NetworkManager
     {
         Debug.Log("Server is Stopping");
     }
+
+    public override void OnStartClient()
+    {
+        Debug.Log("Client has started");
+
+    }
+
 
     //public override void OnClientConnect(NetworkConnection conn)
     //{

@@ -10,6 +10,7 @@ public class UILogin : MonoBehaviour
     public NetworkManagerMMO manager; // singleton=null in Start/Awake
     public BasicAuthenticator auth;
     public GameObject panel;
+    public GameObject characterUI;
 
     public InputField accountInput;
     public InputField passwordInput;
@@ -18,7 +19,7 @@ public class UILogin : MonoBehaviour
     public Button loginButton;
     public Button createButton;
 
-    [TextArea(1, 30)] public string registerMessage = "First time? Just log in and we will\ncreate an account automatically.";
+    [TextArea(1, 30)] public string registerMessage = "First time? Just log in and an account\n will create automatically.";
 
 
     // Start is called before the first frame update
@@ -26,7 +27,7 @@ public class UILogin : MonoBehaviour
     {
 
         loginButton.onClick.AddListener(() => { manager.StartClient(); });
-      //  createButton.onClick.AddListener(() => { auth.CreateCharacter(); });
+        createButton.onClick.AddListener(() => { auth.CreateCharacter(nameInput.text); });
 
     }
 
