@@ -17,7 +17,8 @@ public class NetworkTerrainRenderer : NetworkBehaviour
         public Sprite[] sprites;
     }
 
-    public class TerrainMessage : MessageBase {
+    public struct TerrainMessage : NetworkMessage
+    {
         public int x;
         public int y;
         public int chunkXCounter;
@@ -25,7 +26,7 @@ public class NetworkTerrainRenderer : NetworkBehaviour
         public string content;
     }
 
-    public class ChangeTileMessage : MessageBase
+    public struct ChangeTileMessage : NetworkMessage
     {
         public int x;
         public int y;

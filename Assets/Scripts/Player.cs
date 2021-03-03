@@ -8,6 +8,8 @@ public class Player : NetworkBehaviour
 {
     public static Player instance;
     [SyncVar]
+    public string playerName = "";
+    [SyncVar]
     public int maxHealth = 100;
     [SyncVar]
     public int currentHealth = 100;
@@ -43,7 +45,7 @@ public class Player : NetworkBehaviour
     public InventoryObject inventory;
     public GameObject inventoryScreen;
     public GameObject equipmentScreen;
-    public TextMeshPro playerName;
+    public TextMeshPro nameTM;
     private Vector2 mousePos;
     public GameObject cameraPrefab;
     public GameObject baseTile;
@@ -60,10 +62,12 @@ public class Player : NetworkBehaviour
     [Client]
     private void Start()
     {
+
         if (isLocalPlayer)
         {
             GameObject go = Instantiate(cameraPrefab);
             go.GetComponent<CameraControl>().followTarget = this.gameObject;
+            CmdShoot();
 
         }
         //inventory.Load();
@@ -90,7 +94,22 @@ public class Player : NetworkBehaviour
         }
     }
 
-   [ClientCallback]
+
+    [Command]
+    public void CmdShoot()
+    {
+        nameTM.text = playerName;
+        RPCShoot();
+    }
+
+    [ClientRpc]
+    public void RPCShoot()
+    {
+        nameTM.text = playerName;
+    }
+
+
+    [ClientCallback]
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
@@ -112,7 +131,8 @@ public class Player : NetworkBehaviour
         }
         
         if (Input.GetKeyDown(KeyCode.G) && isLocalPlayer) {
-            SetStamina(100);
+            // SetStamina(100);
+            
         }
 
         if (Input.GetKeyDown(KeyCode.X) && isLocalPlayer)

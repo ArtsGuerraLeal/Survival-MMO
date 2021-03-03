@@ -20,7 +20,8 @@ public class PlayerController : NetworkBehaviour
     private bool facingRight;
     public AudioSource walkSound;
     public AudioSource runSound;
- 
+    public GameObject playerName;
+
     public static PlayerController instance;
     private bool isRunning = false;
     private void Awake()
@@ -36,10 +37,14 @@ public class PlayerController : NetworkBehaviour
 
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+    
 
     }
 
-   
+    public void SetName(string n) {
+    }
+
+
 
     void FixedUpdate()
     {
@@ -179,16 +184,38 @@ public class PlayerController : NetworkBehaviour
         anim.SetBool("PlayerRunning", playerRunning);
     }
 
-    void Flip() {
-        if (Input.GetAxisRaw("Horizontal") > 0 && !facingRight || Input.GetAxisRaw("Horizontal") < 0 && facingRight) {
+    void Flip()
+    {
+        if (Input.GetAxisRaw("Horizontal") > 0 && !facingRight || Input.GetAxisRaw("Horizontal") < 0 && facingRight)
+        {
 
             facingRight = !facingRight;
             Vector3 scale = transform.localScale;
-            scale.x *=  -1;
-            transform.localScale = scale;
+            Vector3 namesPosOrig = playerName.transform.position;
+
+            Vector3 namesPos = new Vector3(1,0.5f,0);
+
+
+            scale.x *= -1;
+            // namescale.x *= -1;
+            transform.Rotate(new Vector3(0, 180, 0));
+            //transform.localScale = scale;
+            //  playerName.transform.localScale = namescale;
+
+            playerName.transform.rotation = Quaternion.Euler(0.0f, transform.rotation.z * -1.0f, 0.0f);
+
+            if (playerName.transform.rotation.y < 0)
+            {
+                playerName.transform.position = namesPos;
+            }
+            else {
+                playerName.transform.position = namesPosOrig;
+
+            }
+
         }
     }
-    
- 
+
+
 
 }

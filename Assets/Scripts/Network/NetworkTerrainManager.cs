@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class NetworkTerrainManager : NetworkBehaviour
 {
-    public class TerrainData : MessageBase
+    public struct TerrainData : NetworkMessage
     {
         public string chunkData;
        

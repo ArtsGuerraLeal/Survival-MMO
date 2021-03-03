@@ -8,7 +8,7 @@ public class TeleExample : NetworkBehaviour
 {
     public string streamPath;
     public string terrainData;
-    public class TerraintDataMessage : MessageBase
+    public struct TerraintDataMessage : NetworkMessage
     {
         public int x;
         public int y;
